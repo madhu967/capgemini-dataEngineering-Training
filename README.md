@@ -14,6 +14,6 @@
 9. **ORDER BY** - Sort results
 10. **LIMIT** - Limit number of results returned
 
-✓ Combining data from multiple tables with JOINs
+Combining data from multiple tables with JOINs
 
 These fundamentals form the basis for more advanced SQL operations and database analysis.
